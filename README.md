@@ -1,4 +1,6 @@
 # GeoIP
+
+[![Join the chat at https://gitter.im/MJBCode/GeoIP](https://badges.gitter.im/MJBCode/GeoIP.svg)](https://gitter.im/MJBCode/GeoIP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 MJB Code's way of converting IP addresses to geo location data
 
 This project is pending migration and cleanup for public use
